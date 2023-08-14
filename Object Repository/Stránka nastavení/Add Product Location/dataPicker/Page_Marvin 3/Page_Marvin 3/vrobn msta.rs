@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vrobn msta</name>
+   <tag></tag>
+   <elementGuidId>2d510cb1-93c6-446f-aa7f-81751e5405e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paudit']/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82629e86-060b-42bc-8c8d-a50218f9334a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1om8hyp</value>
+      <webElementGuid>bd94e07f-b75d-4d0e-91eb-42b2eb845ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Výrobní místa</value>
+      <webElementGuid>84c846ce-aeaa-4fdb-9060-bbc983d0f204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paudit&quot;)/div[@class=&quot;MuiScopedCssBaseline-root css-12i9c2v&quot;]/div[1]/div[@class=&quot;btnsOnLeft&quot;]/div[@class=&quot;css-1om8hyp&quot;]</value>
+      <webElementGuid>413b33d8-292b-419e-965f-f837ebc3fb11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paudit']/div/div/div[4]/div</value>
+      <webElementGuid>f3e64f0e-c7eb-453a-882c-a13fbf1d5ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výrobní místa'])[2]/following::div[2]</value>
+      <webElementGuid>55808ba6-803c-4330-89d2-a0f5b3c399eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auditoři'])[3]/following::div[3]</value>
+      <webElementGuid>f0d35e33-7b83-4379-8727-6757d111e67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výrobní oblasti'])[1]/preceding::div[6]</value>
+      <webElementGuid>311d71d1-2b66-41ed-8bed-61fb8547e804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>7eb104a2-5be1-4c3f-8b1f-e5a75cb9fea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Výrobní místa' or . = 'Výrobní místa')]</value>
+      <webElementGuid>fa05ce7f-33c6-4c53-9287-f5079ca39893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

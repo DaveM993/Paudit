@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Product Location-add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd2db06e-c145-47d5-9c54-5008c8cfcc29</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3052da2e-3ed6-46dc-b8ff-bc9e0931660e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3052da2e-3ed6-46dc-b8ff-bc9e0931660e</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+</TestCaseEntity>

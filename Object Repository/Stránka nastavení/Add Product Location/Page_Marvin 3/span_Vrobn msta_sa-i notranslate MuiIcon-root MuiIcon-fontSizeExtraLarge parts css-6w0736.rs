@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vrobn msta_sa-i notranslate MuiIcon-root MuiIcon-fontSizeExtraLarge parts css-6w0736</name>
+   <tag></tag>
+   <elementGuidId>53882623-bd88-42c5-9755-29b6526f7fcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sa-i.notranslate.MuiIcon-root.MuiIcon-fontSizeExtraLarge.parts.css-6w0736</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paudit']/div/div/div[4]/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f48bf77c-9d17-4a3c-97b5-eef8ad403866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sa-i notranslate MuiIcon-root MuiIcon-fontSizeExtraLarge parts css-6w0736</value>
+      <webElementGuid>cb338737-6756-457b-8b56-17b2cbc93152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4eecaef6-b7d1-44eb-950c-ec15384ce91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paudit&quot;)/div[@class=&quot;MuiScopedCssBaseline-root css-12i9c2v&quot;]/div[1]/div[@class=&quot;btnsOnLeft&quot;]/div[@class=&quot;css-1om8hyp&quot;]/div[1]/div[1]/div[1]/span[@class=&quot;sa-i notranslate MuiIcon-root MuiIcon-fontSizeExtraLarge parts css-6w0736&quot;]</value>
+      <webElementGuid>dd674d4c-44cc-4ed1-bf53-c092861a4c6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paudit']/div/div/div[4]/div/div/div/div/span</value>
+      <webElementGuid>a77b9169-bc16-4888-9b11-803154f20582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/span</value>
+      <webElementGuid>96bee3db-b40a-4cc7-82d9-f940b5cf2062</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

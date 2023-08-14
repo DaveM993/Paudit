@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Marvin 3 Login B2X</name>
+   <tag></tag>
+   <elementGuidId>5c34a41e-f556-41af-b7c8-677fcc023e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeSmall.MuiButton-containedSizeSmall.MuiButton-fullWidth.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeSmall.MuiButton-containedSizeSmall.MuiButton-fullWidth.css-1fxopjy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f7f6386-eff7-48c4-8c7c-7239183cc0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-fullWidth css-1fxopjy</value>
+      <webElementGuid>3fa80d8d-2b0b-47db-8edc-331e85e4bdd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>eb6f261a-ef0a-4fdd-b60e-fb330f455832</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2f00d233-c820-4679-9655-eae3cda536af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marvin 3 Login B2X</value>
+      <webElementGuid>598a9655-550f-4a6a-9836-451bb34e574a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiScopedCssBaseline-root css-19kk5wd&quot;]/div[1]/div[2]/div[1]/div[1]/div[@class=&quot;MuiBox-root css-1a13iho&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthMd MuiContainer-disableGutters css-1x1fie8&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthMd MuiContainer-disableGutters css-1x1fie8&quot;]/div[@class=&quot;MuiBox-root css-1viih73&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-qdbqzv&quot;]/div[@class=&quot;MuiBox-root css-8oeqi8&quot;]/div[@class=&quot;MuiBox-root css-54y5le&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1v7ycuk&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-5.5 css-fh5s11&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButton-fullWidth css-1fxopjy&quot;]</value>
+      <webElementGuid>a4af71d5-48e8-4329-abd4-1315b4cf018c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>5ba64e27-fd64-4aea-86b7-76f0fd9bdb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>a48d9811-ef57-460b-bb1d-e12d934ab625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to the new version of Marvin'])[1]/following::button[1]</value>
+      <webElementGuid>13a006d2-3ad5-4862-8cac-fea6951f5bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marvin - central administration console'])[1]/following::button[1]</value>
+      <webElementGuid>43d3e9da-137c-4789-92ef-3854d36fc4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marvin 3 Login VW Cloud'])[1]/preceding::button[1]</value>
+      <webElementGuid>d265c7f3-72be-4585-acc7-21103e3ee8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login to a previous version of Marvin'])[1]/preceding::button[2]</value>
+      <webElementGuid>0cb12685-fcb9-4382-a456-d7477c57f88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marvin 3 Login B2X']/parent::*</value>
+      <webElementGuid>6b1a03e5-a9ca-4df6-81de-3fffa9a9925a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>065cedf6-aa16-4e10-8a05-026e0785dd36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Marvin 3 Login B2X' or . = 'Marvin 3 Login B2X')]</value>
+      <webElementGuid>73140b26-2304-4a31-9652-f9d580093dfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

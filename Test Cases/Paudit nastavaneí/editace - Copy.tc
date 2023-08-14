@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>editace - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88c81dbc-34b3-4082-8dbb-cf2487312ab5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d8b70ab-fa9c-4411-9cb0-83fd3e1c5444</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d8b70ab-fa9c-4411-9cb0-83fd3e1c5444</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+</TestCaseEntity>

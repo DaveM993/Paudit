@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProductLocationsNew</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>299f53ec-6529-4f26-a87d-65a80b80d0c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1efdf00e-2a2b-4c1f-8f57-514a6c38c809</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1efdf00e-2a2b-4c1f-8f57-514a6c38c809</id>
+      <masked>false</masked>
+      <name>data1</name>
+   </variable>
+</TestCaseEntity>

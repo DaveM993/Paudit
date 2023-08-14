@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vrobn msta</name>
+   <tag></tag>
+   <elementGuidId>417a3a28-58f7-4e5f-a8e5-06e9e3d2d423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;paudit&quot;)/div[@class=&quot;MuiScopedCssBaseline-root css-12i9c2v&quot;]/div[1]/div[@class=&quot;btnsOnLeft&quot;]/div[@class=&quot;css-1om8hyp&quot;][count(. | //*[(text() = 'Výrobní místa' or . = 'Výrobní místa')]) = count(//*[(text() = 'Výrobní místa' or . = 'Výrobní místa')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paudit']/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a763c765-ddd7-4671-84ec-1bc15f5add09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1om8hyp</value>
+      <webElementGuid>d79a02c4-f707-4b8c-a715-964504424f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Výrobní místa</value>
+      <webElementGuid>0f047521-12ab-4f41-befc-1ccd14a8a582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paudit&quot;)/div[@class=&quot;MuiScopedCssBaseline-root css-12i9c2v&quot;]/div[1]/div[@class=&quot;btnsOnLeft&quot;]/div[@class=&quot;css-1om8hyp&quot;]</value>
+      <webElementGuid>1085c398-18ee-4815-bf1e-48b2f82b0e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paudit']/div/div/div[4]/div</value>
+      <webElementGuid>05e99b40-ab8e-4f62-8036-66e5c99eac30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výrobní místa'])[2]/following::div[2]</value>
+      <webElementGuid>12a2724c-4188-40b3-96ac-464fe2490138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auditoři'])[3]/following::div[3]</value>
+      <webElementGuid>0fcb1eeb-1d20-4618-8144-4d89cdd3ae8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Výrobní oblasti'])[1]/preceding::div[6]</value>
+      <webElementGuid>9b181252-2464-49cb-a690-0f246406a433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>6065b068-222a-4377-b628-925cd642935c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Výrobní místa' or . = 'Výrobní místa')]</value>
+      <webElementGuid>8778f9b2-cf5d-4a00-87a1-f885904a10ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
